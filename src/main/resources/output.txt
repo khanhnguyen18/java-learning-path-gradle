@@ -1,0 +1,20 @@
+Question 32
+- A company hires experienced specialists to analyze the customer service calls attended by its call center representatives.
+- Now, the company wants to move to AWS Cloud and is looking at an automated solution to analyze customer service calls for sentiment analysis via ad-hoc SQL queries.
+
+As a Solutions Architect, which of the following solutions would you recommend?
+
+
+**Options**
+- Use Amazon Kinesis Data Streams to read the audio files and machine learning (ML) algorithms to convert the audio files into text and run customer sentiment analysis
+- Use Amazon Kinesis Data Streams to read the audio files and Amazon Alexa to convert them into text.
+- Amazon Kinesis Data Analytics can be used to analyze these files and Amazon Quicksight can be used to visualize and display the output.
+- Use Amazon Transcribe to convert audio files to text and Amazon Athena to perform SQL based analysis to understand the underlying customer sentiments
+- Use Amazon Transcribe to convert audio files to text and Amazon Quicksight to perform SQL based analysis on these text files to understand the underlying patterns.
+- Visualize and display them onto user Dashboards for reporting purposes.
+
+
+**Solution**
+
+
+**Wrong**
